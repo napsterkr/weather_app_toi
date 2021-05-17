@@ -37,8 +37,3 @@ Make API Request: Let's try making a few simple API requests for the current, hi
  *    RxJava
  *    Test Cases
 
-
-
-
-
-https://github.com/napsterkr/coroutines-Sample-Assignment/blob/master/README.md 
